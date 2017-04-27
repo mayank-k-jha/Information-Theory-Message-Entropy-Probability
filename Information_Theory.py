@@ -200,7 +200,6 @@ def about():
     print('\n\t@author :\n')
     print('\tMAYANK KUMAR')
     print('\tB.Tech CSE A')
-    print('\tRoll no : BETN1CS15059\n\n')
     return
 
 
